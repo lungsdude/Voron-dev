@@ -1,4 +1,4 @@
-- I’m interested in lua and js
+- I’m interested in C++ and TypeScript
 
 <!---
 Voron-dev/Voron-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
